@@ -1,0 +1,10 @@
+#plansza {
+    position: relative;
+    left: 41%;
+}
+
+.wynik {
+    font-size: 100px;
+    position: absolute;
+    left: 50%;
+}
